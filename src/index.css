@@ -1,4 +1,8 @@
+ 
  /* === Google Font === */
+
+  /* === Google Font === */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
 
 /* === Global Reset === */
@@ -510,4 +514,9 @@ html, body {
   #footer .footer-row {
     grid-template-columns: 1fr;
   }
+ 
+
+ 
+
+ 
 }
